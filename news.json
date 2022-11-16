@@ -1,0 +1,1219 @@
+newsURL ={
+status: "OK",
+copyright: "Copyright (c) 2022 The New York Times Company.  All Rights Reserved.",
+num_results: 20,
+results: [
+{
+uri: "nyt://article/25bfc8fb-0081-5105-a9b7-e8dd8ff991df",
+url: "https://www.nytimes.com/2022/11/12/science/cat-talking-owners-voice-dog.html",
+id: 100000008632049,
+asset_id: 100000008632049,
+source: "New York Times",
+published_date: "2022-11-12",
+updated: "2022-11-13 09:20:43",
+section: "Science",
+subsection: "",
+nytdsection: "science",
+adx_keywords: "Cats;Pets;Animal Behavior;Animal Cognition;Research;your-feed-science;Animal Cognition (Journal)",
+column: null,
+byline: "By Anthony Ham",
+type: "Article",
+title: "Your Cat Might Not Be Ignoring You When You Speak",
+abstract: "Cats have a reputation for being aloof, but a new study has found that their relationships with their owners may be stronger than we thought.",
+des_facet: [
+"Cats",
+"Pets",
+"Animal Behavior",
+"Animal Cognition",
+"Research",
+"your-feed-science"
+],
+org_facet: [
+"Animal Cognition (Journal)"
+],
+per_facet: [ ],
+geo_facet: [ ],
+media: [
+{
+type: "image",
+subtype: "photo",
+caption: "Cats are often seen as aloof. But in a new study, they were not ignoring their owners, but instead “their reactions were very subtle,” the lead author of the study said.",
+copyright: "David W Cerny/Reuters",
+approved_for_syndication: 1,
+media-metadata: [
+{
+url: "https://static01.nyt.com/images/2022/11/10/science/00tb-cats1/00tb-cats1-thumbStandard.jpg",
+format: "Standard Thumbnail",
+height: 75,
+width: 75
+},
+{
+url: "https://static01.nyt.com/images/2022/11/10/science/00tb-cats1/00tb-cats1-mediumThreeByTwo210.jpg",
+format: "mediumThreeByTwo210",
+height: 140,
+width: 210
+},
+{
+url: "https://static01.nyt.com/images/2022/11/10/science/00tb-cats1/00tb-cats1-mediumThreeByTwo440.jpg",
+format: "mediumThreeByTwo440",
+height: 293,
+width: 440
+}
+]
+}
+],
+eta_id: 0
+},
+{
+uri: "nyt://article/bbc6d022-130c-5c25-b62b-34cd92d41fac",
+url: "https://www.nytimes.com/2022/11/11/style/judy-woodruff-pbs-newshour.html",
+id: 100000008629159,
+asset_id: 100000008629159,
+source: "New York Times",
+published_date: "2022-11-11",
+updated: "2022-11-13 13:43:46",
+section: "Style",
+subsection: "",
+nytdsection: "style",
+adx_keywords: "Television;News and News Media;Public Broadcasting;Content Type: Personal Profile;Woodruff, Judy",
+column: null,
+byline: "By Katherine Rosman",
+type: "Article",
+title: "Judy Woodruff Is Too Busy for Nostalgia",
+abstract: "At 75, “the last grown-up in Washington journalism” prepares to sign off after nearly a decade as an anchor of “PBS NewsHour.”",
+des_facet: [
+"Television",
+"News and News Media",
+"Public Broadcasting",
+"Content Type: Personal Profile"
+],
+org_facet: [ ],
+per_facet: [
+"Woodruff, Judy"
+],
+geo_facet: [ ],
+media: [
+{
+type: "image",
+subtype: "photo",
+caption: "Judy Woodruff at the “PBS NewsHour” anchor desk last month.",
+copyright: "Nate Palmer for The New York Times",
+approved_for_syndication: 1,
+media-metadata: [
+{
+url: "https://static01.nyt.com/images/2022/11/09/fashion/00JUDYWOODRUFF-3B/00JUDYWOODRUFF-3B-thumbStandard.jpg",
+format: "Standard Thumbnail",
+height: 75,
+width: 75
+},
+{
+url: "https://static01.nyt.com/images/2022/11/09/fashion/00JUDYWOODRUFF-3B/00JUDYWOODRUFF-3B-mediumThreeByTwo210.jpg",
+format: "mediumThreeByTwo210",
+height: 140,
+width: 210
+},
+{
+url: "https://static01.nyt.com/images/2022/11/09/fashion/00JUDYWOODRUFF-3B/00JUDYWOODRUFF-3B-mediumThreeByTwo440.jpg",
+format: "mediumThreeByTwo440",
+height: 293,
+width: 440
+}
+]
+}
+],
+eta_id: 0
+},
+{
+uri: "nyt://article/aab6bd7c-9a5a-5cd4-9bb1-777ae24ed19a",
+url: "https://www.nytimes.com/2022/11/09/science/octopus-throwing-silt.html",
+id: 100000008626746,
+asset_id: 100000008626746,
+source: "New York Times",
+published_date: "2022-11-09",
+updated: "2022-11-10 09:08:29",
+section: "Science",
+subsection: "",
+nytdsection: "science",
+adx_keywords: "Octopus;Animal Behavior;Research;your-feed-science;your-feed-animals;PLoS One (Journal);Australia",
+column: null,
+byline: "By Darren Incorvaia",
+type: "Article",
+title: "Sometimes This Octopus Is So Mad It Just Wants to Throw Something",
+abstract: "A study finds that the gloomy octopus — its real name — is in the small club of animals that toss things at other members of their own species.",
+des_facet: [
+"Octopus",
+"Animal Behavior",
+"Research",
+"your-feed-science",
+"your-feed-animals"
+],
+org_facet: [
+"PLoS One (Journal)"
+],
+per_facet: [ ],
+geo_facet: [
+"Australia"
+],
+media: [
+{
+type: "image",
+subtype: "photo",
+caption: "",
+copyright: "Shutterstock",
+approved_for_syndication: 1,
+media-metadata: [
+{
+url: "https://static01.nyt.com/images/2022/11/09/science/09tb-angry-octopus/09tb-angry-octopus-thumbStandard.jpg",
+format: "Standard Thumbnail",
+height: 75,
+width: 75
+},
+{
+url: "https://static01.nyt.com/images/2022/11/09/science/09tb-angry-octopus/09tb-angry-octopus-mediumThreeByTwo210.jpg",
+format: "mediumThreeByTwo210",
+height: 140,
+width: 210
+},
+{
+url: "https://static01.nyt.com/images/2022/11/09/science/09tb-angry-octopus/09tb-angry-octopus-mediumThreeByTwo440.jpg",
+format: "mediumThreeByTwo440",
+height: 293,
+width: 440
+}
+]
+}
+],
+eta_id: 0
+},
+{
+uri: "nyt://article/67a3975e-ea56-5d50-8094-43debac5ffad",
+url: "https://www.nytimes.com/2022/11/10/opinion/biden-democrat-2024.html",
+id: 100000008619759,
+asset_id: 100000008619759,
+source: "New York Times",
+published_date: "2022-11-10",
+updated: "2022-11-12 01:52:07",
+section: "Opinion",
+subsection: "",
+nytdsection: "opinion",
+adx_keywords: "Presidential Election of 2024;United States Politics and Government;Governors (US);Biden, Joseph R Jr;Harris, Kamala D;Buttigieg, Pete (1982- );Whitmer, Gretchen;Klobuchar, Amy;Warren, Elizabeth;Cooper, Roy A;Brown, Sherrod;Pritzker, J B;Khanna, Ro;Sanders, Bernard;Ocasio-Cortez, Alexandria;Newsom, Gavin;Landrieu, Mitch;Obama, Michelle;Kelly, Mark E (1964- );Warnock, Raphael G;Polis, Jared S (1975- );Tester, Jon;Beshear, Andrew G (1977- );Democratic Party",
+column: null,
+byline: "By Frank Bruni",
+type: "Article",
+title: "Biden Is No Sure Thing for 2024. What About Buttigieg? Harris? Even Whitmer?",
+abstract: "Many Democrats have craved the chance to pick somebody else to run for president in 2024. But which somebody? ",
+des_facet: [
+"Presidential Election of 2024",
+"United States Politics and Government",
+"Governors (US)"
+],
+org_facet: [
+"Democratic Party"
+],
+per_facet: [
+"Biden, Joseph R Jr",
+"Harris, Kamala D",
+"Buttigieg, Pete (1982- )",
+"Whitmer, Gretchen",
+"Klobuchar, Amy",
+"Warren, Elizabeth",
+"Cooper, Roy A",
+"Brown, Sherrod",
+"Pritzker, J B",
+"Khanna, Ro",
+"Sanders, Bernard",
+"Ocasio-Cortez, Alexandria",
+"Newsom, Gavin",
+"Landrieu, Mitch",
+"Obama, Michelle",
+"Kelly, Mark E (1964- )",
+"Warnock, Raphael G",
+"Polis, Jared S (1975- )",
+"Tester, Jon",
+"Beshear, Andrew G (1977- )"
+],
+geo_facet: [ ],
+media: [
+{
+type: "image",
+subtype: "photo",
+caption: "",
+copyright: "Illustration by The New York Times; Photograph by Brittany Greeson for The New York Times",
+approved_for_syndication: 1,
+media-metadata: [
+{
+url: "https://static01.nyt.com/images/2022/11/12/opinion/10bruni/10bruni-thumbStandard.png",
+format: "Standard Thumbnail",
+height: 75,
+width: 75
+},
+{
+url: "https://static01.nyt.com/images/2022/11/12/opinion/10bruni/10bruni-mediumThreeByTwo210.png",
+format: "mediumThreeByTwo210",
+height: 140,
+width: 210
+},
+{
+url: "https://static01.nyt.com/images/2022/11/12/opinion/10bruni/10bruni-mediumThreeByTwo440.png",
+format: "mediumThreeByTwo440",
+height: 293,
+width: 440
+}
+]
+}
+],
+eta_id: 0
+},
+{
+uri: "nyt://article/5a564f2f-daf9-541d-9677-397423f07cd5",
+url: "https://www.nytimes.com/2022/11/08/well/move/full-body-workout-20-minutes.html",
+id: 100000008549546,
+asset_id: 100000008549546,
+source: "New York Times",
+published_date: "2022-11-08",
+updated: "2022-11-14 19:50:39",
+section: "Well",
+subsection: "Move",
+nytdsection: "well",
+adx_keywords: "Exercise;Heart;Content Type: Service",
+column: null,
+byline: "By Hilary Achauer",
+type: "Article",
+title: "Can You Get a Full-Body Workout in 20 Minutes?",
+abstract: "Yes, but you have to pick the right routine.",
+des_facet: [
+"Exercise",
+"Heart",
+"Content Type: Service"
+],
+org_facet: [ ],
+per_facet: [ ],
+geo_facet: [ ],
+media: [
+{
+type: "image",
+subtype: "photo",
+caption: "",
+copyright: "Eric Helgas for The New York Times",
+approved_for_syndication: 1,
+media-metadata: [
+{
+url: "https://static01.nyt.com/images/2022/11/15/multimedia/08ASK-WELL-MOST-EFFICIENT-EXERCISES1-1-8888/08ASK-WELL-MOST-EFFICIENT-EXERCISES1-1-8888-thumbStandard.jpg",
+format: "Standard Thumbnail",
+height: 75,
+width: 75
+},
+{
+url: "https://static01.nyt.com/images/2022/11/15/multimedia/08ASK-WELL-MOST-EFFICIENT-EXERCISES1-1-8888/08ASK-WELL-MOST-EFFICIENT-EXERCISES1-1-8888-mediumThreeByTwo210.jpg",
+format: "mediumThreeByTwo210",
+height: 140,
+width: 210
+},
+{
+url: "https://static01.nyt.com/images/2022/11/15/multimedia/08ASK-WELL-MOST-EFFICIENT-EXERCISES1-1-8888/08ASK-WELL-MOST-EFFICIENT-EXERCISES1-1-8888-mediumThreeByTwo440.jpg",
+format: "mediumThreeByTwo440",
+height: 293,
+width: 440
+}
+]
+}
+],
+eta_id: 0
+},
+{
+uri: "nyt://article/8527412e-911a-5d90-b159-512db5d5b84d",
+url: "https://www.nytimes.com/2022/11/07/us/licking-toads-toxic.html",
+id: 100000008622381,
+asset_id: 100000008622381,
+source: "New York Times",
+published_date: "2022-11-07",
+updated: "2022-11-07 11:56:29",
+section: "U.S.",
+subsection: "",
+nytdsection: "u.s.",
+adx_keywords: "Frogs;National Parks, Monuments and Seashores;Chemicals;Parks and Other Recreation Areas;Psychedelic and Hallucinogenic Drugs;National Park Service;Sonoran Desert;United States;Mexico",
+column: null,
+byline: "By Daniel Victor",
+type: "Article",
+title: "National Park Service Asks Visitors to Please Stop Licking Toads",
+abstract: "The Sonoran desert toad’s toxins create an intense psychedelic experience, but that’s not an excuse to put one in your mouth.",
+des_facet: [
+"Frogs",
+"National Parks, Monuments and Seashores",
+"Chemicals",
+"Parks and Other Recreation Areas",
+"Psychedelic and Hallucinogenic Drugs"
+],
+org_facet: [
+"National Park Service"
+],
+per_facet: [ ],
+geo_facet: [
+"Sonoran Desert",
+"United States",
+"Mexico"
+],
+media: [
+{
+type: "image",
+subtype: "photo",
+caption: "The Sonoran desert toad excretes a toxin that produces a psychedelic experience when dried into crystals and smoked in a pipe. Some National Park visitors have tried licking the toads.",
+copyright: "Adam Riding for The New York Times",
+approved_for_syndication: 1,
+media-metadata: [
+{
+url: "https://static01.nyt.com/images/2022/11/07/us/07xp-toad1/07xp-toad1-thumbStandard.jpg",
+format: "Standard Thumbnail",
+height: 75,
+width: 75
+},
+{
+url: "https://static01.nyt.com/images/2022/11/07/us/07xp-toad1/07xp-toad1-mediumThreeByTwo210.jpg",
+format: "mediumThreeByTwo210",
+height: 140,
+width: 210
+},
+{
+url: "https://static01.nyt.com/images/2022/11/07/us/07xp-toad1/07xp-toad1-mediumThreeByTwo440.jpg",
+format: "mediumThreeByTwo440",
+height: 293,
+width: 440
+}
+]
+}
+],
+eta_id: 0
+},
+{
+uri: "nyt://article/eb4d4ba8-2110-5ce0-bedd-3ff4b216e953",
+url: "https://www.nytimes.com/2022/11/12/opinion/trump-election-midterm.html",
+id: 100000008634159,
+asset_id: 100000008634159,
+source: "New York Times",
+published_date: "2022-11-12",
+updated: "2022-11-12 10:55:07",
+section: "Opinion",
+subsection: "",
+nytdsection: "opinion",
+adx_keywords: "Midterm Elections (2022);United States Politics and Government;Presidential Election of 2024;Trump, Donald J;DeSantis, Ron;Republican Party",
+column: null,
+byline: "By Maureen Dowd",
+type: "Article",
+title: "The Emperor of Chaos Has No Clothes",
+abstract: "Is this the end of Little Caesar? Or will Trump retain his G.O.P. domain?",
+des_facet: [
+"Midterm Elections (2022)",
+"United States Politics and Government",
+"Presidential Election of 2024"
+],
+org_facet: [
+"Republican Party"
+],
+per_facet: [
+"Trump, Donald J",
+"DeSantis, Ron"
+],
+geo_facet: [ ],
+media: [
+{
+type: "image",
+subtype: "photo",
+caption: "",
+copyright: "Damon Winter/The New York Times",
+approved_for_syndication: 1,
+media-metadata: [
+{
+url: "https://static01.nyt.com/images/2022/11/12/opinion/12dowd-image/12dowd-image-thumbStandard.jpg",
+format: "Standard Thumbnail",
+height: 75,
+width: 75
+},
+{
+url: "https://static01.nyt.com/images/2022/11/12/opinion/12dowd-image/12dowd-image-mediumThreeByTwo210.jpg",
+format: "mediumThreeByTwo210",
+height: 140,
+width: 210
+},
+{
+url: "https://static01.nyt.com/images/2022/11/12/opinion/12dowd-image/12dowd-image-mediumThreeByTwo440.jpg",
+format: "mediumThreeByTwo440",
+height: 293,
+width: 440
+}
+]
+}
+],
+eta_id: 0
+},
+{
+uri: "nyt://article/a6a60621-375c-5256-bd38-d73848f5199a",
+url: "https://www.nytimes.com/2022/11/13/us/politics/farmland-values-prices.html",
+id: 100000008591185,
+asset_id: 100000008591185,
+source: "New York Times",
+published_date: "2022-11-13",
+updated: "2022-11-14 11:33:57",
+section: "U.S.",
+subsection: "Politics",
+nytdsection: "u.s.",
+adx_keywords: "Land Use Policies;Agriculture and Farming;Prices (Fares, Fees and Rates);Crop Controls and Subsidies;Real Estate (Commercial);Private Equity;Gates, Bill;Agriculture Department;South Dakota;South Carolina;Tennessee",
+column: null,
+byline: "By Linda Qiu",
+type: "Article",
+title: "Farmland Values Hit Record Highs, Pricing Out Farmers",
+abstract: "Small farmers are now going up against deep-pocketed investors, including private equity firms and real estate developers.",
+des_facet: [
+"Land Use Policies",
+"Agriculture and Farming",
+"Prices (Fares, Fees and Rates)",
+"Crop Controls and Subsidies",
+"Real Estate (Commercial)",
+"Private Equity"
+],
+org_facet: [
+"Agriculture Department"
+],
+per_facet: [
+"Gates, Bill"
+],
+geo_facet: [
+"South Dakota",
+"South Carolina",
+"Tennessee"
+],
+media: [
+{
+type: "image",
+subtype: "photo",
+caption: "In South Dakota, farmland values surged by 18.7 percent from 2021 to 2022, one of the largest increases in the country, according to the Agriculture Department.",
+copyright: "Tim Gruber for The New York Times",
+approved_for_syndication: 1,
+media-metadata: [
+{
+url: "https://static01.nyt.com/images/2022/11/03/us/politics/00dc-farmvalues-1/00dc-farmvalues-1-thumbStandard.jpg",
+format: "Standard Thumbnail",
+height: 75,
+width: 75
+},
+{
+url: "https://static01.nyt.com/images/2022/11/03/us/politics/00dc-farmvalues-1/00dc-farmvalues-1-mediumThreeByTwo210.jpg",
+format: "mediumThreeByTwo210",
+height: 140,
+width: 210
+},
+{
+url: "https://static01.nyt.com/images/2022/11/03/us/politics/00dc-farmvalues-1/00dc-farmvalues-1-mediumThreeByTwo440.jpg",
+format: "mediumThreeByTwo440",
+height: 293,
+width: 440
+}
+]
+}
+],
+eta_id: 0
+},
+{
+uri: "nyt://article/1b1eac18-a48e-57a1-ac13-a0dde269741a",
+url: "https://www.nytimes.com/2022/11/07/science/lunar-eclipse-when-where.html",
+id: 100000008608513,
+asset_id: 100000008608513,
+source: "New York Times",
+published_date: "2022-11-07",
+updated: "2022-11-10 08:08:39",
+section: "Science",
+subsection: "",
+nytdsection: "science",
+adx_keywords: "Eclipses;Moon;Earth;Space and Astronomy",
+column: null,
+byline: "By Shannon Hall",
+type: "Article",
+title: "A Total Lunar Eclipse in Early Tuesday Skies",
+abstract: "Those who woke up early to head to the polls on Tuesday, got a shot at seeing the moon darken as it fell into Earth’s shadow.",
+des_facet: [
+"Eclipses",
+"Moon",
+"Earth",
+"Space and Astronomy"
+],
+org_facet: [ ],
+per_facet: [ ],
+geo_facet: [ ],
+media: [ ],
+eta_id: 0
+},
+{
+uri: "nyt://article/2cefbc5b-a937-56ba-ac02-9e239ebd13dd",
+url: "https://www.nytimes.com/2022/11/09/dining/best-vegetarian-thanksgiving-recipes.html",
+id: 100000008622572,
+asset_id: 100000008622572,
+source: "New York Times",
+published_date: "2022-11-09",
+updated: "2022-11-09 13:38:23",
+section: "Food",
+subsection: "",
+nytdsection: "food",
+adx_keywords: "Thanksgiving Day;Vegetarianism;Cooking and Cookbooks",
+column: null,
+byline: "By Alexa Weibel",
+type: "Article",
+title: "The Best Vegetarian Thanksgiving Looks as Good as It Tastes",
+abstract: "With a showstopping centerpiece and four vibrant side dishes, this menu makes the most of fall vegetables.",
+des_facet: [
+"Thanksgiving Day",
+"Vegetarianism",
+"Cooking and Cookbooks"
+],
+org_facet: [ ],
+per_facet: [ ],
+geo_facet: [ ],
+media: [
+{
+type: "image",
+subtype: "photo",
+caption: "",
+copyright: "Christopher Testani for The New York Times. Food Stylist: Barrett Washburne.",
+approved_for_syndication: 1,
+media-metadata: [
+{
+url: "https://static01.nyt.com/images/2022/11/16/dining/09Veg-Thanksgiving1/merlin_216141033_b8aa3322-e6f6-4aac-a1bd-f3bc0933b4ae-thumbStandard.jpg",
+format: "Standard Thumbnail",
+height: 75,
+width: 75
+},
+{
+url: "https://static01.nyt.com/images/2022/11/16/dining/09Veg-Thanksgiving1/merlin_216141033_b8aa3322-e6f6-4aac-a1bd-f3bc0933b4ae-mediumThreeByTwo210.jpg",
+format: "mediumThreeByTwo210",
+height: 140,
+width: 210
+},
+{
+url: "https://static01.nyt.com/images/2022/11/16/dining/09Veg-Thanksgiving1/merlin_216141033_b8aa3322-e6f6-4aac-a1bd-f3bc0933b4ae-mediumThreeByTwo440.jpg",
+format: "mediumThreeByTwo440",
+height: 293,
+width: 440
+}
+]
+}
+],
+eta_id: 0
+},
+{
+uri: "nyt://article/86479b67-ccff-5bea-8ab4-7eddd703039b",
+url: "https://www.nytimes.com/2022/11/07/science/trees-fungi-talking.html",
+id: 100000008585424,
+asset_id: 100000008585424,
+source: "New York Times",
+published_date: "2022-11-07",
+updated: "2022-11-15 07:09:52",
+section: "Science",
+subsection: "",
+nytdsection: "science",
+adx_keywords: "Trees and Shrubs;Forests and Forestry;Fungi;Research;your-feed-science;Karst, Justine;Hoeksema, Jason;Jones, Melanie D.;Simard, Suzanne",
+column: null,
+byline: "By Gabriel Popkin",
+type: "Article",
+title: "Are Trees Talking Underground? For Scientists, It’s in Dispute.",
+abstract: "From Ted Lasso to TED Talks, the theory of the “wood-wide web” is everywhere, and some scientists argue that it is overblown and unproven.",
+des_facet: [
+"Trees and Shrubs",
+"Forests and Forestry",
+"Fungi",
+"Research",
+"your-feed-science"
+],
+org_facet: [ ],
+per_facet: [
+"Karst, Justine",
+"Hoeksema, Jason",
+"Jones, Melanie D.",
+"Simard, Suzanne"
+],
+geo_facet: [ ],
+media: [
+{
+type: "image",
+subtype: "photo",
+caption: "",
+copyright: "Jennilee Marigomen for The New York Times",
+approved_for_syndication: 1,
+media-metadata: [
+{
+url: "https://static01.nyt.com/images/2022/11/08/science/07sci-woodwideweb-promo/07sci-woodwideweb-promo-thumbStandard.jpg",
+format: "Standard Thumbnail",
+height: 75,
+width: 75
+},
+{
+url: "https://static01.nyt.com/images/2022/11/08/science/07sci-woodwideweb-promo/07sci-woodwideweb-promo-mediumThreeByTwo210.jpg",
+format: "mediumThreeByTwo210",
+height: 140,
+width: 210
+},
+{
+url: "https://static01.nyt.com/images/2022/11/08/science/07sci-woodwideweb-promo/07sci-woodwideweb-promo-mediumThreeByTwo440.jpg",
+format: "mediumThreeByTwo440",
+height: 293,
+width: 440
+}
+]
+}
+],
+eta_id: 0
+},
+{
+uri: "nyt://article/138e8254-c85b-59b2-9468-12773b1cade3",
+url: "https://www.nytimes.com/2022/01/22/business/harvey-g-stack-dead.html",
+id: 100000008163924,
+asset_id: 100000008163924,
+source: "New York Times",
+published_date: "2022-01-22",
+updated: "2022-01-26 23:48:50",
+section: "Business",
+subsection: "",
+nytdsection: "business",
+adx_keywords: "Deaths (Obituaries);Collectors and Collections;Numismatics;Currency;Auctions;Stack, Harvey G (1928-2022);Stack's Bowers Galleries (Stacks-Bowers Numismatics LLC)",
+column: null,
+byline: "By Sam Roberts",
+type: "Article",
+title: "Harvey G. Stack, Leading Dealer in Rare Coins, Dies at 93",
+abstract: "At the New York firm his father and uncle started in 1933, he was said to have personally conducted more auction sales than anyone else in the industry.",
+des_facet: [
+"Deaths (Obituaries)",
+"Collectors and Collections",
+"Numismatics",
+"Currency",
+"Auctions"
+],
+org_facet: [
+"Stack's Bowers Galleries (Stacks-Bowers Numismatics LLC)"
+],
+per_facet: [
+"Stack, Harvey G (1928-2022)"
+],
+geo_facet: [ ],
+media: [
+{
+type: "image",
+subtype: "photo",
+caption: "Harvey Stack, right, in 1976, displaying some of his store’s rare coins. He developed a standardized grading system for appraising coins and expanded demand among hobbyists.",
+copyright: "Tyrone Dukes/The New York Times",
+approved_for_syndication: 1,
+media-metadata: [
+{
+url: "https://static01.nyt.com/images/2022/01/27/obituaries/18Stack1-print1/18Stack1-thumbStandard.jpg",
+format: "Standard Thumbnail",
+height: 75,
+width: 75
+},
+{
+url: "https://static01.nyt.com/images/2022/01/27/obituaries/18Stack1-print1/18Stack1-mediumThreeByTwo210.jpg",
+format: "mediumThreeByTwo210",
+height: 140,
+width: 210
+},
+{
+url: "https://static01.nyt.com/images/2022/01/27/obituaries/18Stack1-print1/18Stack1-mediumThreeByTwo440.jpg",
+format: "mediumThreeByTwo440",
+height: 293,
+width: 440
+}
+]
+}
+],
+eta_id: 0
+},
+{
+uri: "nyt://article/f7818584-61b4-5921-b69b-bbc65ebbfda5",
+url: "https://www.nytimes.com/2022/11/10/opinion/the-fever-is-breaking.html",
+id: 100000008630837,
+asset_id: 100000008630837,
+source: "New York Times",
+published_date: "2022-11-10",
+updated: "2022-11-10 21:35:39",
+section: "Opinion",
+subsection: "",
+nytdsection: "opinion",
+adx_keywords: "Midterm Elections (2022);United States Politics and Government;Law and Legislation;Right-Wing Extremism and Alt-Right;Trump, Donald J;Democratic Party;Republican Party;United States",
+column: null,
+byline: "By David Brooks",
+type: "Article",
+title: "The Fever Is Breaking",
+abstract: "This has been a good year for liberalism.",
+des_facet: [
+"Midterm Elections (2022)",
+"United States Politics and Government",
+"Law and Legislation",
+"Right-Wing Extremism and Alt-Right"
+],
+org_facet: [
+"Democratic Party",
+"Republican Party"
+],
+per_facet: [
+"Trump, Donald J"
+],
+geo_facet: [
+"United States"
+],
+media: [
+{
+type: "image",
+subtype: "photo",
+caption: "",
+copyright: "Christopher Lee for The New York Times",
+approved_for_syndication: 1,
+media-metadata: [
+{
+url: "https://static01.nyt.com/images/2022/11/14/opinion/10brooks1/10brooks1-thumbStandard.jpg",
+format: "Standard Thumbnail",
+height: 75,
+width: 75
+},
+{
+url: "https://static01.nyt.com/images/2022/11/14/opinion/10brooks1/10brooks1-mediumThreeByTwo210.jpg",
+format: "mediumThreeByTwo210",
+height: 140,
+width: 210
+},
+{
+url: "https://static01.nyt.com/images/2022/11/14/opinion/10brooks1/10brooks1-mediumThreeByTwo440.jpg",
+format: "mediumThreeByTwo440",
+height: 293,
+width: 440
+}
+]
+}
+],
+eta_id: 0
+},
+{
+uri: "nyt://article/0643d7a7-e589-55e0-8111-c8af70186c6a",
+url: "https://www.nytimes.com/2022/11/07/books/bob-dylan-philosophy-of-modern-song.html",
+id: 100000008616170,
+asset_id: 100000008616170,
+source: "New York Times",
+published_date: "2022-11-07",
+updated: "2022-11-14 06:00:28",
+section: "Books",
+subsection: "",
+nytdsection: "books",
+adx_keywords: "Books and Literature;Pop and Rock Music;Content Type: Personal Profile;audio-neutral-informative;Dylan, Bob",
+column: null,
+byline: "By Dwight Garner",
+type: "Article",
+title: "Bob Dylan Breaks Down 66 Classic Tunes in His New Book",
+abstract: "“The Philosophy of Modern Song” offers commentaries on a range of music, written in the singer’s unmistakable lyrical style.",
+des_facet: [
+"Books and Literature",
+"Pop and Rock Music",
+"Content Type: Personal Profile",
+"audio-neutral-informative"
+],
+org_facet: [ ],
+per_facet: [
+"Dylan, Bob"
+],
+geo_facet: [ ],
+media: [
+{
+type: "image",
+subtype: "photo",
+caption: "Bob Dylan gives us a sample of what he listens to in his new book, “The Philosophy of Modern Song.”",
+copyright: "William Claxton",
+approved_for_syndication: 0,
+media-metadata: [
+{
+url: "https://static01.nyt.com/images/2022/11/08/books/07DYLAN-REVIEW-PROMO/07DYLAN-REVIEW-thumbStandard.jpg",
+format: "Standard Thumbnail",
+height: 75,
+width: 75
+},
+{
+url: "https://static01.nyt.com/images/2022/11/08/books/07DYLAN-REVIEW-PROMO/07DYLAN-REVIEW-PROMO-mediumThreeByTwo210.jpg",
+format: "mediumThreeByTwo210",
+height: 140,
+width: 210
+},
+{
+url: "https://static01.nyt.com/images/2022/11/08/books/07DYLAN-REVIEW-PROMO/07DYLAN-REVIEW-PROMO-mediumThreeByTwo440.jpg",
+format: "mediumThreeByTwo440",
+height: 293,
+width: 440
+}
+]
+}
+],
+eta_id: 0
+},
+{
+uri: "nyt://article/e8ceb303-b873-50ee-a9b9-b433be18ce3e",
+url: "https://www.nytimes.com/2022/11/05/health/medicare-seniors-health.html",
+id: 100000008616543,
+asset_id: 100000008616543,
+source: "New York Times",
+published_date: "2022-11-05",
+updated: "2022-11-07 22:13:30",
+section: "Health",
+subsection: "",
+nytdsection: "health",
+adx_keywords: "Medicare;Health Insurance and Managed Care;Doctors;Hospitals;Elderly;your-feed-healthcare;your-feed-science",
+column: null,
+byline: "By Paula Span",
+type: "Article",
+title: "Medicare Advantage or Just Medicare?",
+abstract: "It’s annual enrollment season once again. Here’s a look at the pros and cons of the two approaches to health insurance.",
+des_facet: [
+"Medicare",
+"Health Insurance and Managed Care",
+"Doctors",
+"Hospitals",
+"Elderly",
+"your-feed-healthcare",
+"your-feed-science"
+],
+org_facet: [ ],
+per_facet: [ ],
+geo_facet: [ ],
+media: [
+{
+type: "image",
+subtype: "photo",
+caption: "The proportion of eligible Medicare beneficiaries enrolled in Medicare Advantage plans will exceed 50 percent next year, experts estimate.",
+copyright: "Bill Clark/CQ Roll Call, via Getty Images",
+approved_for_syndication: 1,
+media-metadata: [
+{
+url: "https://static01.nyt.com/images/2022/11/08/science/00SCI-SPAN-MEDICARE/00SCI-SPAN-MEDICARE-thumbStandard.jpg",
+format: "Standard Thumbnail",
+height: 75,
+width: 75
+},
+{
+url: "https://static01.nyt.com/images/2022/11/08/science/00SCI-SPAN-MEDICARE/00SCI-SPAN-MEDICARE-mediumThreeByTwo210-v2.jpg",
+format: "mediumThreeByTwo210",
+height: 140,
+width: 210
+},
+{
+url: "https://static01.nyt.com/images/2022/11/08/science/00SCI-SPAN-MEDICARE/00SCI-SPAN-MEDICARE-mediumThreeByTwo440-v2.jpg",
+format: "mediumThreeByTwo440",
+height: 293,
+width: 440
+}
+]
+}
+],
+eta_id: 0
+},
+{
+uri: "nyt://article/8049bb4d-b28b-5cb5-8e17-c0c607d45e7a",
+url: "https://www.nytimes.com/2020/10/10/at-home/exercises-for-better-sleep.html",
+id: 100000007380837,
+asset_id: 100000007380837,
+source: "New York Times",
+published_date: "2020-10-10",
+updated: "2021-08-15 10:24:58",
+section: "At Home",
+subsection: "",
+nytdsection: "at home",
+adx_keywords: "Quarantine (Life and Culture);Back (Human Body Part);Legs;Knees;Anxiety and Stress;Yoga;Sleep;Neck;Exercise;Content Type: Service",
+column: null,
+byline: "By Kelly DiNardo",
+type: "Article",
+title: "Rest Better With Light Exercises",
+abstract: "Stretching and meditative movement like yoga before bed can improve the quality of your sleep and the amount you sleep. Here is a short and calming routine of 11 stretches and exercises.",
+des_facet: [
+"Quarantine (Life and Culture)",
+"Back (Human Body Part)",
+"Legs",
+"Knees",
+"Anxiety and Stress",
+"Yoga",
+"Sleep",
+"Neck",
+"Exercise",
+"Content Type: Service"
+],
+org_facet: [ ],
+per_facet: [ ],
+geo_facet: [ ],
+media: [
+{
+type: "image",
+subtype: "photo",
+caption: "",
+copyright: "Brown Bird Design",
+approved_for_syndication: 1,
+media-metadata: [
+{
+url: "https://static01.nyt.com/images/2020/10/11/multimedia/11ah-catcow/11ah-catcow-thumbStandard.jpg",
+format: "Standard Thumbnail",
+height: 75,
+width: 75
+},
+{
+url: "https://static01.nyt.com/images/2020/10/11/multimedia/11ah-catcow/11ah-catcow-mediumThreeByTwo210.jpg",
+format: "mediumThreeByTwo210",
+height: 140,
+width: 210
+},
+{
+url: "https://static01.nyt.com/images/2020/10/11/multimedia/11ah-catcow/11ah-catcow-mediumThreeByTwo440.jpg",
+format: "mediumThreeByTwo440",
+height: 293,
+width: 440
+}
+]
+}
+],
+eta_id: 0
+},
+{
+uri: "nyt://article/9ed76c4d-23c1-59cc-876e-161a1501fb93",
+url: "https://www.nytimes.com/2022/11/12/opinion/mental-health-therapy-instagram.html",
+id: 100000008611435,
+asset_id: 100000008611435,
+source: "New York Times",
+published_date: "2022-11-12",
+updated: "2022-11-13 10:10:12",
+section: "Opinion",
+subsection: "",
+nytdsection: "opinion",
+adx_keywords: "Anxiety and Stress;Mental Health and Disorders;Therapy and Rehabilitation;Sociology;Social Media;United States",
+column: null,
+byline: "By Tara Isabella Burton",
+type: "Article",
+title: "The Problem With Letting Therapy-Speak Invade Everything",
+abstract: "It’s not self-care when you hurt your friend’s feelings.",
+des_facet: [
+"Anxiety and Stress",
+"Mental Health and Disorders",
+"Therapy and Rehabilitation",
+"Sociology",
+"Social Media"
+],
+org_facet: [ ],
+per_facet: [ ],
+geo_facet: [
+"United States"
+],
+media: [
+{
+type: "image",
+subtype: "photo",
+caption: "",
+copyright: "Brian Scagnelli",
+approved_for_syndication: 0,
+media-metadata: [
+{
+url: "https://static01.nyt.com/images/2022/11/12/opinion/12burton-image/12burton-image-thumbStandard.png",
+format: "Standard Thumbnail",
+height: 75,
+width: 75
+},
+{
+url: "https://static01.nyt.com/images/2022/11/12/opinion/12burton-image/12burton-image-mediumThreeByTwo210.png",
+format: "mediumThreeByTwo210",
+height: 140,
+width: 210
+},
+{
+url: "https://static01.nyt.com/images/2022/11/12/opinion/12burton-image/12burton-image-mediumThreeByTwo440.png",
+format: "mediumThreeByTwo440",
+height: 293,
+width: 440
+}
+]
+}
+],
+eta_id: 0
+},
+{
+uri: "nyt://article/ccc2ef96-9616-5469-9124-30d5c8bf53fb",
+url: "https://www.nytimes.com/2022/11/09/arts/enheduanna-author-morgan.html",
+id: 100000008616861,
+asset_id: 100000008616861,
+source: "New York Times",
+published_date: "2022-11-09",
+updated: "2022-11-12 09:47:47",
+section: "Arts",
+subsection: "",
+nytdsection: "arts",
+adx_keywords: "Assyrian Civilization;Writing and Writers;Poetry and Poets;Women and Girls;Libraries and Librarians;Enheduanna (Poet);Babcock, Sidney (Curator);Morgan Library & Museum",
+column: null,
+byline: "By Jennifer Schuessler",
+type: "Article",
+title: "In Search of Enheduanna, the Woman Who Was History’s First Named Author",
+abstract: "“She Who Wrote,” an exhibition at the Morgan Library, explores the world of an ancient Mesopotamian priestess who wrote with a strikingly personal voice.",
+des_facet: [
+"Assyrian Civilization",
+"Writing and Writers",
+"Poetry and Poets",
+"Women and Girls",
+"Libraries and Librarians"
+],
+org_facet: [
+"Morgan Library & Museum"
+],
+per_facet: [
+"Enheduanna (Poet)",
+"Babcock, Sidney (Curator)"
+],
+geo_facet: [ ],
+media: [
+{
+type: "image",
+subtype: "photo",
+caption: "Two Mesopotamian sculptures from around 2112-2004 B.C., included in “She Who Wrote,” an exhibition at the Morgan Library & Museum. The figure in the background holds a tablet in her lap, as if ready to write.",
+copyright: "Lila Barth for The New York Times",
+approved_for_syndication: 1,
+media-metadata: [
+{
+url: "https://static01.nyt.com/images/2022/11/10/arts/09Enheduanna-writer1/09Enheduanna-writer1-thumbStandard.jpg",
+format: "Standard Thumbnail",
+height: 75,
+width: 75
+},
+{
+url: "https://static01.nyt.com/images/2022/11/10/arts/09Enheduanna-writer1/09Enheduanna-writer1-mediumThreeByTwo210.jpg",
+format: "mediumThreeByTwo210",
+height: 140,
+width: 210
+},
+{
+url: "https://static01.nyt.com/images/2022/11/10/arts/09Enheduanna-writer1/09Enheduanna-writer1-mediumThreeByTwo440.jpg",
+format: "mediumThreeByTwo440",
+height: 293,
+width: 440
+}
+]
+}
+],
+eta_id: 0
+},
+{
+uri: "nyt://article/efbd7c99-9e10-54ee-8637-ecfa5f6bbf79",
+url: "https://www.nytimes.com/2022/11/09/science/ivory-comb-beard-lice.html",
+id: 100000008625194,
+asset_id: 100000008625194,
+source: "New York Times",
+published_date: "2022-11-09",
+updated: "2022-11-11 19:16:56",
+section: "Science",
+subsection: "",
+nytdsection: "science",
+adx_keywords: "your-feed-science;Archaeology and Anthropology;Language and Languages;Research;Ivory;Lice;Jerusalem Journal of Archaeology;Israel",
+column: null,
+byline: "By Oliver Whang",
+type: "Article",
+title: "An Ancient People’s Oldest Message: Get Rid of Beard Lice",
+abstract: "Archaeologists in Israel unearthed a tiny ivory comb inscribed with the oldest known sentence written in an alphabet that evolved into one we use today.",
+des_facet: [
+"your-feed-science",
+"Archaeology and Anthropology",
+"Language and Languages",
+"Research",
+"Ivory",
+"Lice"
+],
+org_facet: [
+"Jerusalem Journal of Archaeology"
+],
+per_facet: [ ],
+geo_facet: [
+"Israel"
+],
+media: [
+{
+type: "image",
+subtype: "photo",
+caption: "A 3,700-year-old ivory comb found in southern Israel bears an inscription that reads, “May this tusk root out the lice of the hair and the beard.”",
+copyright: "Menahem Kahana/Agence France-Presse — Getty Images",
+approved_for_syndication: 1,
+media-metadata: [
+{
+url: "https://static01.nyt.com/images/2022/11/09/science/00SCI-firstsentence1/merlin_216327735_cca75f5d-0d00-4f34-8692-ed2a416651a4-thumbStandard.jpg",
+format: "Standard Thumbnail",
+height: 75,
+width: 75
+},
+{
+url: "https://static01.nyt.com/images/2022/11/09/science/00SCI-firstsentence1/merlin_216327735_cca75f5d-0d00-4f34-8692-ed2a416651a4-mediumThreeByTwo210.jpg",
+format: "mediumThreeByTwo210",
+height: 140,
+width: 210
+},
+{
+url: "https://static01.nyt.com/images/2022/11/09/science/00SCI-firstsentence1/merlin_216327735_cca75f5d-0d00-4f34-8692-ed2a416651a4-mediumThreeByTwo440.jpg",
+format: "mediumThreeByTwo440",
+height: 293,
+width: 440
+}
+]
+}
+],
+eta_id: 0
+},
+{
+uri: "nyt://article/d238e750-f814-5be3-9b16-aa351faf6986",
+url: "https://www.nytimes.com/2022/11/07/magazine/ukraine-rebuild-irpin.html",
+id: 100000008617852,
+asset_id: 100000008617852,
+source: "New York Times",
+published_date: "2022-11-07",
+updated: "2022-11-13 14:01:00",
+section: "Magazine",
+subsection: "",
+nytdsection: "magazine",
+adx_keywords: "Area Planning and Renewal;Architecture;Infrastructure (Public Works);Russian Invasion of Ukraine (2022);internal-open-access;Irpin (Ukraine);Ukraine",
+column: null,
+byline: "By Linda Kinstler",
+type: "Article",
+title: "Architects Plan a City for the Future in Ukraine, While Bombs Still Fall",
+abstract: "Irpin was one of the first Ukrainian cities to be destroyed and liberated. Now it’s becoming a laboratory for rebuilding.",
+des_facet: [
+"Area Planning and Renewal",
+"Architecture",
+"Infrastructure (Public Works)",
+"Russian Invasion of Ukraine (2022)",
+"internal-open-access"
+],
+org_facet: [ ],
+per_facet: [ ],
+geo_facet: [
+"Irpin (Ukraine)",
+"Ukraine"
+],
+media: [
+{
+type: "image",
+subtype: "photo",
+caption: "The destroyed Irpin bridge in September.",
+copyright: "Michal Siarek for The New York Times",
+approved_for_syndication: 1,
+media-metadata: [
+{
+url: "https://static01.nyt.com/images/2022/11/13/magazine/13mag-irpin-02/13mag-irpin-02-thumbStandard.jpg",
+format: "Standard Thumbnail",
+height: 75,
+width: 75
+},
+{
+url: "https://static01.nyt.com/images/2022/11/13/magazine/13mag-irpin-02/13mag-irpin-02-mediumThreeByTwo210.jpg",
+format: "mediumThreeByTwo210",
+height: 140,
+width: 210
+},
+{
+url: "https://static01.nyt.com/images/2022/11/13/magazine/13mag-irpin-02/13mag-irpin-02-mediumThreeByTwo440.jpg",
+format: "mediumThreeByTwo440",
+height: 293,
+width: 440
+}
+]
+}
+],
+eta_id: 0
+}
+]
+}
