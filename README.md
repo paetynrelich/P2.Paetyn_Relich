@@ -1,4 +1,4 @@
 # P2.Paetyn_Relich
 Project 2
 
-![](http://g.recordit.co/i3qhTdVNvt.gif)
+![](https://github.com/paetynrelich/P2.Paetyn_Relich/blob/main/P2_Paetyn_Relich.gif)
